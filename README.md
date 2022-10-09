@@ -13,7 +13,7 @@ Peça sua(eu) amada(o) em namoro de uma maneira totalmente diferente e divertida
 
 ## Clique na imagem abaixo para acessar o vídeo de demonstração da aplicação
 
-[![Watch the video](https://github.com/peterson2003/urna-eletronica/blob/master/Readme-Images/Screenshot_6.png)](https://youtu.be/vupY3uiBX84)
+[![Watch the video](https://github.com/peterson2003/pedido-de-namoro/blob/master/readme-images/Screenshot_3.png)](https://www.youtube.com/watch?v=vupY3uiBX84)
 
 # Tecnologias utilizadas
 
@@ -22,8 +22,10 @@ Peça sua(eu) amada(o) em namoro de uma maneira totalmente diferente e divertida
 - CSS;
 - JavaScript.
 
-# Autor
+# Autores
 
-Peterson Kawan Ferreira Dos Santos
+Peterson Kawan Ferreira Dos Santos<br/>
+<a href="https://github.com/matheus-ma1a">Matheus Santos Maia</a>
 
-**https://www.linkedin.com/in/peterson-santos-5b160623b/**
+**https://www.linkedin.com/in/peterson-santos-5b160623b/**<br/>
+**https://www.linkedin.com/in/matheus-santos-maia/**
