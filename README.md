@@ -3,7 +3,7 @@
 
 # Sobre o projeto:
 
-O **Pedido de Namoro** é uma aplicação front-end construída em conjunto com o <a href="https://github.com/matheus-ma1a">Matheus Maia</a> durante a nossa série de estudos em HTML/CSS/JS, 
+O **Pedido de Namoro** é uma aplicação front-end construída em conjunto com o <a href="https://github.com/matheus-ma1a">Matheus Maia</a> durante a nossa série de estudos em HTML/CSS/JS.
 
 Peça sua(eu) amada(o) em namoro de uma maneira totalmente diferente e divertida. Com um botão totalmente irreverente e que se move aleatóriamente, desafi-a(o) e aguarde o tão sonhado **SIM**, já que o **NÃO** será impossível.
 ## Layout web
